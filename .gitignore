@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# config.py
+config2.js
+
+# db_key.py
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# .DS_Store
